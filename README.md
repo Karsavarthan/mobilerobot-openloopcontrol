@@ -99,14 +99,12 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
 
 ![image](https://github.com/Karsavarthan/mobilerobot-openloopcontrol/assets/139841970/44a0cabb-5395-42fc-8637-a7c2ef1a60b8)
 
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
 
 https://youtu.be/diGaxQ5qexM?feature=shared
 
